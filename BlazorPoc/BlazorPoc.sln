@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorPoc", "BlazorPoc\BlazorPoc.csproj", "{A4E42084-313B-4F8F-9D77-6CF224A04017}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorApi", "BlazorApi\BlazorApi.csproj", "{7D57C66D-B452-42A0-9F97-8C40244D1465}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -16,5 +18,9 @@ Global
 		{4043A322-7109-49E0-8DE3-960197F9F0AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4043A322-7109-49E0-8DE3-960197F9F0AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4043A322-7109-49E0-8DE3-960197F9F0AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D57C66D-B452-42A0-9F97-8C40244D1465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D57C66D-B452-42A0-9F97-8C40244D1465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D57C66D-B452-42A0-9F97-8C40244D1465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D57C66D-B452-42A0-9F97-8C40244D1465}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
