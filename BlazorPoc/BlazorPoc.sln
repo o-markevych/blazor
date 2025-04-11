@@ -1,8 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorPoc", "BlazorPoc.csproj", "{A4E42084-313B-4F8F-9D77-6CF224A04017}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorApi", "BlazorApi\BlazorApi.csproj", "{4043A322-7109-49E0-8DE3-960197F9F0AF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorPoc", "BlazorPoc\BlazorPoc.csproj", "{A4E42084-313B-4F8F-9D77-6CF224A04017}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
